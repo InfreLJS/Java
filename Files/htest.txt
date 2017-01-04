@@ -1,0 +1,6 @@
+afd
+asdfsdf
+asdfas
+stty -a
+<program>;
+exit;
